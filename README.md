@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianocajado&label=Profile%20views&color=0e75b6&style=flat" alt="adrianocajado" /> </p>
 
 
-
+/*
 <p align="left"> <a href="https://twitter.com/a_cajado" target="blank"><img src="https://img.shields.io/twitter/follow/a_cajado?logo=twitter&style=for-the-badge" alt="a_cajado" /></a> </p>
-
+*/
 - 🌱 I’m currently learning **JS, PHP, HTML and CSS**
 
 - 📫 How to reach me **adrianocajado@outlook.com**
