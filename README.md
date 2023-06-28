@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Adriano</h1>
-<h3 align="center">I'm a recent graduate still in search of knowledge. I enjoy working in collaborative teams. I have a 'passion' for web technologies.</h3>
+<h1 align="center">Hi 👋, eu sou o Adriano</h1>
+<h3 align="center">Um eterno apaixonado por aprender coisas novas. O amor do momento são as tecnologias web ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianocajado&label=Profile%20views&color=0e75b6&style=flat" alt="adrianocajado" /> </p>
 
 
-/*
-<p align="left"> <a href="https://twitter.com/a_cajado" target="blank"><img src="https://img.shields.io/twitter/follow/a_cajado?logo=twitter&style=for-the-badge" alt="a_cajado" /></a> </p>
-*/
+
 - 🌱 I’m currently learning **JS, PHP, HTML and CSS**
 
 - 📫 How to reach me **adrianocajado@outlook.com**
