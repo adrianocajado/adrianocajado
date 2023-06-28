@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, eu sou o Adriano</h1>
+<h1 align="center">Olá 👋, eu sou o Adriano</h1>
 <h3 align="center">Um eterno apaixonado por aprender coisas novas. O amor do momento são as tecnologias web ❤️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianocajado&label=Profile%20views&color=0e75b6&style=flat" alt="adrianocajado" /> </p>
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianocajado&label=Profile%20views&color=0e75b6&style=flat" alt="adrianocajado" /> </p> 
 - 🌱 I’m currently learning **JS, PHP, HTML and CSS**
 
 - 📫 How to reach me **adrianocajado@outlook.com**
